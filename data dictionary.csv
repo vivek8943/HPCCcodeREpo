@@ -1,0 +1,20 @@
+,variable,description,source,scrubber
+0,tot_house_2000,total number of housing units 2000,Census of Housing 2000,Kilbourne
+1,hsgsd2000,percentage of housing single family detached 2000,Census of Housing 2000,Kilbourne
+2,hsg_mobile_200,percentage housing mobile homes 2000,Census of Housing 2000,Kilbourne
+3,vacant2000,percentage housing units unoccupied 2000,Census of Housing 2000,Kilbourne
+4,oldhouse2000,percentage of housing units built prior to 1950-2000,Census of Housing 2000,Kilbourne
+5,hsg50_59_2000,percentage housing units built from 1950 to 1959-2000,Census of Housing 2000,Kilbourne
+6,hsg_slght_crwd_2000,percentage housing units with 1.01-1.5 persons per room-2000,Census of Housing 2000,Kilbourne
+7,hsg-mod_crowd_2000,percentage housing units with 1.51-2.01 persons per room-2000,Census of Housing 2000,Kilbourne
+8,hsg_very_crwd_2000,percentage housing units with > 2.01 persons per room,Census of Housing 2000,Kilbourne
+9,hsg_inc_plumb_2000,percentage housing units with incomplete plumbing,Census of Housing 2000,Kilbourne
+10,hsg_utilitygas_2000,percentage housing units heated with utility gas (natural gas),Census of Housing 2000,Kilbourne
+11,hsg_bottledgas_2000,percentage housing units heated with bottled gas (propane),Census of Housing 2000,Kilbourne
+12,hsg_electric_2000,percentage of housing units heated by electricity ,Census of Housing 2000,Kilbourne
+13,hsg_kero_2000,percentage housing units heated by kerosene,Census of Housing 2000,Kilbourne
+14,hsg_coal_2000,percentage housing units heated by coal,Census of Housing 2000,Kilbourne
+15,hsg_wood_2000,percentage housing units heated by wood,Census of Housing 2000,Kilbourne
+16,hsg_solar_2000,percentage housing units heated by sola energy,Census of Housing 2000,Kilbourne
+17,hsg_other_fuel_2000,percentage housing units heated by other unspecified fuel,Census of Housing 2000,Kilbourne
+18,hsg_noheat_2000,percentage housing with no heat,Census of Housing 2000,Kilbourne
