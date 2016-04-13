@@ -21,10 +21,10 @@ data = pandas.read_csv('Copy.csv')
 data1 = pandas.read_csv('list2.csv')
 requiredvariables = [];
 print('--------------------')
-for i in range(0,35):
+#for i in range(0,35):
 
-   for row in data.itertuples():
-       requiredvariables.append(row[i]);
+ #  for row in data.itertuples():
+  #     requiredvariables.append(row[i]);
 for i in range(0,53):
 
    for row in data1.itertuples():

@@ -1,0 +1,11 @@
+AvgDailyMaxHeatIndexF
+PROPYLENE_OXIDE
+Surface_M
+2011_Associates_Degree_or_Higher_(%_of_adults_25_and_older_)
+Surface_Pro
+Preschool_Enrollment_(%_enrolled_ages_3_and_4)
+p1prpty_rate
+Mines_TTL
+tot_house_2000
+fitns09
+mhhinbk

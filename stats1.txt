@@ -1,0 +1,16 @@
+Infant Mortality Mean :1421.73606299
+Infant Mortality STD 465.383554105
+Infant Mortality Median 1402.1
+
+Variable : RATE_SKILL_NURS_BEDS
+RATE_SKILL_NURS_BEDS Mean 5.18361288661
+ STD 20.402825313
+ min 0.0
+ max 231.744644
+ diffmeanandmin :RATE_SKILL_NURS_BEDS    4.6168
+dtype: float64
+ diffmeanandmax :RATE_SKILL_NURS_BEDS   -227.127844
+dtype: float64
+ r2 value :0.000536962445741
+ p value :0.409317314262
+Variable : EducationIndex

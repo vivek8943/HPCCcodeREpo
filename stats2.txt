@@ -3,1218 +3,1209 @@ Infant Mortality STD 465.383554105
 Infant Mortality Median 1402.1
 
 Variable : RATE_MDS_TOT_FM_OFFBASED
-RATE_MDS_TOT_FM_OFFBASED Mean 23.6684481702
- STD nan
+RATE_MDS_TOT_FM_OFFBASED Mean 24.9882133084
+ STD 19.7971909826
  min 0.0
- max 328.812166
+ max 180.962722
  diffmeanandmin :RATE_MDS_TOT_FM_OFFBASED    24.226718
 dtype: float64
  diffmeanandmax :RATE_MDS_TOT_FM_OFFBASED   -304.585448
 dtype: float64
- r2 value :0.000486356712255
- p value :0.432310892258
+ r2 value :0.000257303510207
+ p value :0.567920594204
 Variable : RATE_MDS_SPEC_TOT_PC
-RATE_MDS_SPEC_TOT_PC Mean 31.8850912112
- STD nan
+RATE_MDS_SPEC_TOT_PC Mean 33.3608506591
+ STD 46.5568672093
  min 0.0
- max 460.358488
+ max 729.529886
  diffmeanandmin :RATE_MDS_SPEC_TOT_PC    34.111901
 dtype: float64
  diffmeanandmax :RATE_MDS_SPEC_TOT_PC   -1002.933352
 dtype: float64
- r2 value :0.000715373785741
- p value :0.340895466852
+ r2 value :5.01551447545e-05
+ p value :0.800934898091
 Variable : RATE_ORTHOSURG_TOT_PC
-RATE_ORTHOSURG_TOT_PC Mean 3.60723664432
- STD nan
+RATE_ORTHOSURG_TOT_PC Mean 3.69856939953
+ STD 6.83847828309
  min 0.0
- max 88.731145
+ max 106.338255
  diffmeanandmin :RATE_ORTHOSURG_TOT_PC    3.792848
 dtype: float64
  diffmeanandmax :RATE_ORTHOSURG_TOT_PC   -102.545407
 dtype: float64
- r2 value :0.000724901193412
- p value :0.337699425308
+ r2 value :0.000689812762764
+ p value :0.349674101676
 Variable : admh_index_f
-admh_index_f Mean 89.6244611727
- STD nan
- min 79.76
- max 95.5
+admh_index_f Mean 89.6305384006
+ STD 3.22478594107
+ min 79.62
+ max 95.61
  diffmeanandmin :admh_index_f    10.340955
 dtype: float64
  diffmeanandmax :admh_index_f   -6.039045
 dtype: float64
- r2 value :2.43763851101e-05
- p value :0.860469377821
+ r2 value :0.00107275093424
+ p value :0.243460928295
 Variable : RATE_MDS_TOT_SPEC_HOSP_RES
-RATE_MDS_TOT_SPEC_HOSP_RES Mean 3.60986670945
- STD 13.9399311249
+RATE_MDS_TOT_SPEC_HOSP_RES Mean 3.80524121355
+ STD 20.6357579941
  min 0.0
- max 168.544133
+ max 410.381544
  diffmeanandmin :RATE_MDS_TOT_SPEC_HOSP_RES    2.997524
 dtype: float64
  diffmeanandmax :RATE_MDS_TOT_SPEC_HOSP_RES   -407.38402
 dtype: float64
- r2 value :0.000273761571611
- p value :0.555793329481
+ r2 value :0.00103864265167
+ p value :0.251101684436
 Variable : RATE_SURG_OPS_INPT
-RATE_SURG_OPS_INPT Mean 2267.9798232
- STD 6093.01744465
+RATE_SURG_OPS_INPT Mean 2180.89289957
+ STD 3782.1712843
  min 0.0
- max 177645.858455
+ max 74731.856805
  diffmeanandmin :RATE_SURG_OPS_INPT    2150.300611
 dtype: float64
  diffmeanandmax :RATE_SURG_OPS_INPT   -175495.557849
 dtype: float64
- r2 value :2.12302882008e-05
- p value :0.869698319654
+ r2 value :0.0026704461654
+ p value :0.0656200626856
 Variable : Housing_Rent_W
-Housing_Rent_W Mean 0.233055875591
- STD 0.0664342889759
- min 0.040076
- max 0.683546
+Housing_Rent_W Mean 0.236894603625
+ STD 0.0645579470928
+ min 0.04028
+ max 0.629524
  diffmeanandmin :Housing_Rent_W    0.193185
 dtype: float64
  diffmeanandmax :Housing_Rent_W   -0.465912
 dtype: float64
- r2 value :0.00266374118216
- p value :0.0659601396807
+ r2 value :0.000113841361043
+ p value :0.704041005007
 Variable : Surface_M
 Surface_M Mean 
 Variable : 2011_Associate's_Degree_or_Higher_(%_of_adults_25_and_older_)
-2011_Associate's_Degree_or_Higher_(%_of_adults_25_and_older_) Mean 26.8988210663
- STD nan
- min 10.144446
- max 72.39953
+2011_Associate's_Degree_or_Higher_(%_of_adults_25_and_older_) Mean 26.6814287429
+ STD 9.66170767063
+ min 7.9789214
+ max 70.43418
  diffmeanandmin :2011_Associate's_Degree_or_Higher_(%_of_adults_25_and_older_)    18.38144
 dtype: float64
  diffmeanandmax :2011_Associate's_Degree_or_Higher_(%_of_adults_25_and_older_)   -46.369409
 dtype: float64
- r2 value :0.000249942446036
- p value :0.573511893153
+ r2 value :0.000457243414154
+ p value :0.446434397538
 Variable : RATE_PSYCH_TOT_PC
-RATE_PSYCH_TOT_PC Mean 4.93244569716
- STD nan
+RATE_PSYCH_TOT_PC Mean 4.47949280236
+ STD 8.54870109653
  min 0.0
  max 118.378107
  diffmeanandmin :RATE_PSYCH_TOT_PC    4.41306
 dtype: float64
  diffmeanandmax :RATE_PSYCH_TOT_PC   -123.9805
 dtype: float64
- r2 value :0.000218031356466
- p value :0.599080531291
+ r2 value :5.40764846931e-05
+ p value :0.793468919954
 Variable : Housing_Rent_B
-Housing_Rent_B Mean 0.476830116809
- STD nan
+Housing_Rent_B Mean 0.47854599619
+ STD 0.266196283603
  min 0.0
  max 1.0
  diffmeanandmin :Housing_Rent_B    0.485394
 dtype: float64
  diffmeanandmax :Housing_Rent_B   -0.514606
 dtype: float64
- r2 value :0.000154155731059
- p value :0.65845362652
+ r2 value :0.000683771126235
+ p value :0.351793722827
 Variable : Temp_min
-Temp_min Mean 46.9363930545
- STD nan
- min 24.62
- max 70.66
+Temp_min Mean 47.0296842936
+ STD 7.65146614927
+ min 22.95
+ max 70.8
  diffmeanandmin :Temp_min    24.17599
 dtype: float64
  diffmeanandmax :Temp_min   -24.59401
 dtype: float64
- r2 value :0.000358286697778
- p value :0.500342535808
+ r2 value :0.00100592692417
+ p value :0.25870862357
 Variable : 2013_Median_Household_Income_(2010_$)
-2013_Median_Household_Income_(2010_$) Mean 43792.8158414
- STD nan
- min 19326.3917651
- max 102460.122313
+2013_Median_Household_Income_(2010_$) Mean 43265.7565936
+ STD 11202.2897644
+ min 21253.6021798
+ max 105123.123827
  diffmeanandmin :2013_Median_Household_Income_(2010_$)    24981.184707
 dtype: float64
  diffmeanandmax :2013_Median_Household_Income_(2010_$)   -72918.777752
 dtype: float64
- r2 value :0.000476850020119
- p value :0.43684663201
+ r2 value :0.00018660414334
+ p value :0.626714283097
 Variable : RATE_PEDS_TOT_PC
-RATE_PEDS_TOT_PC Mean 28.6637871051
- STD nan
+RATE_PEDS_TOT_PC Mean 26.6694630694
+ STD 38.2515268516
  min 0.0
- max 543.705563
+ max 475.285171
  diffmeanandmin :RATE_PEDS_TOT_PC    28.600485
 dtype: float64
  diffmeanandmax :RATE_PEDS_TOT_PC   -646.237692
 dtype: float64
- r2 value :0.000874261954637
- p value :0.292383906167
+ r2 value :1.6820883329e-05
+ p value :0.883908816151
 Variable : RATE_SURG_GEN_TOT_PC
-RATE_SURG_GEN_TOT_PC Mean 7.12723235067
- STD nan
+RATE_SURG_GEN_TOT_PC Mean 6.75736878155
+ STD 9.94119709319
  min 0.0
- max 148.37896
+ max 135.980419
  diffmeanandmin :RATE_SURG_GEN_TOT_PC    6.736159
 dtype: float64
  diffmeanandmax :RATE_SURG_GEN_TOT_PC   -141.642801
 dtype: float64
- r2 value :0.00189225480673
- p value :0.121280552022
+ r2 value :0.000510229141477
+ p value :0.421230180451
 Variable : 2013_Associate's_Degree_or_Higher_(%_of_adults_25_and_older_)
-2013_Associate's_Degree_or_Higher_(%_of_adults_25_and_older_) Mean 26.9815518606
- STD nan
- min 9.9
- max 74.9
+2013_Associate's_Degree_or_Higher_(%_of_adults_25_and_older_) Mean 26.7976228209
+ STD 9.42967182209
+ min 9.2
+ max 64.8
  diffmeanandmin :2013_Associate's_Degree_or_Higher_(%_of_adults_25_and_older_)    18.202882
 dtype: float64
  diffmeanandmax :2013_Associate's_Degree_or_Higher_(%_of_adults_25_and_older_)   -47.997118
 dtype: float64
- r2 value :0.000596950203836
- p value :0.384312846993
+ r2 value :0.000125464686895
+ p value :0.690045159027
 Variable : RATE_SKILL_NURS_BEDS
-RATE_SKILL_NURS_BEDS Mean 4.96216422003
- STD nan
+RATE_SKILL_NURS_BEDS Mean 4.31572788626
+ STD 16.2036648185
  min 0.0
- max 195.107746
+ max 221.339387
  diffmeanandmin :RATE_SKILL_NURS_BEDS    4.6168
 dtype: float64
  diffmeanandmax :RATE_SKILL_NURS_BEDS   -227.127844
 dtype: float64
- r2 value :2.98689643625e-05
- p value :0.845725575283
+ r2 value :0.000503789999274
+ p value :0.424176574929
 Variable : Filtered_Arsenic_03-05
-Filtered_Arsenic_03-05 Mean 6.07318476847
- STD nan
+Filtered_Arsenic_03-05 Mean 6.87251412856
+ STD 26.1231895205
  min 0.0
  max 272.923853211
  diffmeanandmin :Filtered_Arsenic_03-05    4.773881
 dtype: float64
  diffmeanandmax :Filtered_Arsenic_03-05   -268.149973
 dtype: float64
- r2 value :0.000834419113709
- p value :0.303656280893
+ r2 value :0.000127630144711
+ p value :0.687521559504
 Variable : EducationIndex
-EducationIndex Mean 3.98435776202
- STD nan
- min 0.98
- max 8.95
+EducationIndex Mean 3.95338849488
+ STD 1.06146820924
+ min 1.08
+ max 8.03
  diffmeanandmin :EducationIndex    3.110679
 dtype: float64
  diffmeanandmax :EducationIndex   -4.969321
 dtype: float64
- r2 value :0.000439026440743
- p value :0.455638163034
+ r2 value :5.63065788607e-05
+ p value :0.78935153721
 Variable : RATE_SHRTTERM_NH_HOSP_BEDS
-RATE_SHRTTERM_NH_HOSP_BEDS Mean 7.47758118311
- STD nan
+RATE_SHRTTERM_NH_HOSP_BEDS Mean 7.33201849132
+ STD 24.6702496908
  min 0.0
- max 252.575607
+ max 261.437908
  diffmeanandmin :RATE_SHRTTERM_NH_HOSP_BEDS    7.879368
 dtype: float64
  diffmeanandmax :RATE_SHRTTERM_NH_HOSP_BEDS   -337.028579
 dtype: float64
- r2 value :0.000197743942392
- p value :0.61660704167
+ r2 value :0.00162227608092
+ p value :0.151418234004
 Variable : RATE_MDS_TOT_SPEC_OFFBASED
-RATE_MDS_TOT_SPEC_OFFBASED Mean 29.9174399984
- STD 39.4079336082
+RATE_MDS_TOT_SPEC_OFFBASED Mean 29.089601637
+ STD 38.2744784897
  min 0.0
- max 532.386868
+ max 488.205401
  diffmeanandmin :RATE_MDS_TOT_SPEC_OFFBASED    29.110716
 dtype: float64
  diffmeanandmax :RATE_MDS_TOT_SPEC_OFFBASED   -503.276152
 dtype: float64
- r2 value :0.000379866541681
- p value :0.487710965248
+ r2 value :0.000380544918216
+ p value :0.487322543097
 Variable : RATE_SHRTTERM_HOSP_BEDS
-RATE_SHRTTERM_HOSP_BEDS Mean 30.7617266993
- STD nan
+RATE_SHRTTERM_HOSP_BEDS Mean 31.7193798772
+ STD 40.1273024107
  min 0.0
- max 379.430854
+ max 391.517129
  diffmeanandmin :RATE_SHRTTERM_HOSP_BEDS    32.250414
 dtype: float64
  diffmeanandmax :RATE_SHRTTERM_HOSP_BEDS   -827.595611
 dtype: float64
- r2 value :4.11105654363e-05
- p value :0.819433750438
+ r2 value :1.94901421584e-06
+ p value :0.960359146655
 Variable : DM_Temp
-DM_Temp Mean 64.9105957109
- STD nan
- min 44.99
- max 87.44
+DM_Temp Mean 65.2219329073
+ STD 8.43765298867
+ min 43.67
+ max 85.34
  diffmeanandmin :DM_Temp    22.974633
 dtype: float64
  diffmeanandmax :DM_Temp   -22.245367
 dtype: float64
- r2 value :0.000190158273085
- p value :0.6234498198
+ r2 value :6.59565320547e-05
+ p value :0.772473280546
 Variable : RATE_PEDS_CARDIO_TOT_PC
-RATE_PEDS_CARDIO_TOT_PC Mean 0.499071035489
- STD nan
+RATE_PEDS_CARDIO_TOT_PC Mean 0.493807708661
+ STD 2.57290934603
  min 0.0
- max 95.057034
+ max 40.284312
  diffmeanandmin :RATE_PEDS_CARDIO_TOT_PC    0.567539
 dtype: float64
  diffmeanandmax :RATE_PEDS_CARDIO_TOT_PC   -109.610122
 dtype: float64
- r2 value :0.00279932196052
- p value :0.0594337174304
+ r2 value :5.04735053651e-05
+ p value :0.800317413736
 Variable : PERCNT_LT65_NO_HLTH_INS
-PERCNT_LT65_NO_HLTH_INS Mean 18.1420803783
- STD nan
+PERCNT_LT65_NO_HLTH_INS Mean 18.3784081954
+ STD 6.35812296573
  min 7.2
- max 46.8
+ max 44.6
  diffmeanandmin :PERCNT_LT65_NO_HLTH_INS    17.977019
 dtype: float64
  diffmeanandmax :PERCNT_LT65_NO_HLTH_INS   -28.822981
 dtype: float64
- r2 value :0.00021622055572
- p value :0.600601792421
+ r2 value :1.79845669562e-07
+ p value :0.987953869193
 Variable : RATE_TOT_NH_HOSP_BEDS
-RATE_TOT_NH_HOSP_BEDS Mean 7.69682164933
- STD nan
+RATE_TOT_NH_HOSP_BEDS Mean 9.4038302153
+ STD 28.7153990879
  min 0.0
- max 252.575607
+ max 261.437908
  diffmeanandmin :RATE_TOT_NH_HOSP_BEDS    8.299849
 dtype: float64
  diffmeanandmax :RATE_TOT_NH_HOSP_BEDS   -336.608098
 dtype: float64
- r2 value :0.00176133295163
- p value :0.134963924538
+ r2 value :4.58398269025e-08
+ p value :0.993918211034
 Variable : MinTemp_2000_July
-MinTemp_2000_July Mean 17.0855082742
- STD nan
- min 4.74
- max 25.76
+MinTemp_2000_July Mean 17.1789676911
+ STD 3.75977802143
+ min 3.97
+ max 25.08
  diffmeanandmin :MinTemp_2000_July    13.126138
 dtype: float64
  diffmeanandmax :MinTemp_2000_July   -8.663862
 dtype: float64
- r2 value :0.000402168388565
- p value :0.475203360361
+ r2 value :2.72304698253e-08
+ p value :0.995312523166
 Variable : Less_Than_High_School_(%)
-Less_Than_High_School_(%) Mean 16.7879242305
- STD nan
+Less_Than_High_School_(%) Mean 16.8833070866
+ STD 7.3618106998
  min 0.7
- max 49.5
+ max 52.1
  diffmeanandmin :Less_Than_High_School_(%)    16.230167
 dtype: float64
  diffmeanandmax :Less_Than_High_School_(%)   -35.169833
 dtype: float64
- r2 value :0.00159696330908
- p value :0.154650597652
+ r2 value :8.5935180613e-05
+ p value :0.741368445871
 Variable : PERCNT_MEDCR_ENROL_AGED_SMI
-PERCNT_MEDCR_ENROL_AGED_SMI Mean 94.355518832
- STD nan
- min 0.0
+PERCNT_MEDCR_ENROL_AGED_SMI Mean 94.2692030433
+ STD 7.40675172603
+ min 64.361702
  max 176.753317
  diffmeanandmin :PERCNT_MEDCR_ENROL_AGED_SMI    94.188649
 dtype: float64
  diffmeanandmax :PERCNT_MEDCR_ENROL_AGED_SMI   -82.564668
 dtype: float64
- r2 value :5.27051413436e-05
- p value :0.79604600292
+ r2 value :7.53869199863e-05
+ p value :0.75722857726
 Variable : At_Least_High_School_Diploma(%)
-At_Least_High_School_Diploma(%) Mean 83.0464511041
- STD nan
- min 52.8
- max 97.4
+At_Least_High_School_Diploma(%) Mean 82.8438582677
+ STD 7.4006472953
+ min 47.9
+ max 97.6
  diffmeanandmin :At_Least_High_School_Diploma(%)    35.169833
 dtype: float64
  diffmeanandmax :At_Least_High_School_Diploma(%)   -16.230167
 dtype: float64
- r2 value :0.00298594915065
- p value :0.0515487779592
+ r2 value :0.00112977693725
+ p value :0.23130770121
 Variable : RATE_ACTMDS_NONFED
-RATE_ACTMDS_NONFED Mean 127.027312243
- STD nan
+RATE_ACTMDS_NONFED Mean 124.365188099
+ STD 180.294216041
  min 0.0
  max 2675.767243
  diffmeanandmin :RATE_ACTMDS_NONFED    122.602543
 dtype: float64
  diffmeanandmax :RATE_ACTMDS_NONFED   -2553.1647
 dtype: float64
- r2 value :0.000401487520878
- p value :0.475577418139
+ r2 value :0.00195209725638
+ p value :0.115544322106
 Variable : sunlight
-sunlight Mean 16064.7199528
- STD 1520.09858684
+sunlight Mean 15995.7280836
+ STD 1504.63565115
  min 13004.05
- max 20497.85
+ max 20774.77
  diffmeanandmin :sunlight    3092.088191
 dtype: float64
  diffmeanandmax :sunlight   -4736.891809
 dtype: float64
- r2 value :0.00361439465217
- p value :0.032167546073
+ r2 value :0.000575739107704
+ p value :0.392896302523
 Variable : RATE_HOSP_ADMISSION
-RATE_HOSP_ADMISSION Mean 92.5915047164
- STD nan
+RATE_HOSP_ADMISSION Mean 90.5229238031
+ STD 97.768410199
  min 0.0
- max 5040.16325
+ max 972.772461
  diffmeanandmin :RATE_HOSP_ADMISSION    91.47059
 dtype: float64
  diffmeanandmax :RATE_HOSP_ADMISSION   -4948.69266
 dtype: float64
- r2 value :3.08942294246e-06
- p value :0.950103542072
+ r2 value :0.000148139792593
+ p value :0.664769830827
 Variable : PCT_NHBLACK08
-PCT_NHBLACK08 Mean 9.30197005516
- STD nan
+PCT_NHBLACK08 Mean 9.00662983425
+ STD 14.4558676924
  min 0.0
- max 83.5
+ max 76.6
  diffmeanandmin :PCT_NHBLACK08    9.000515
 dtype: float64
  diffmeanandmax :PCT_NHBLACK08   -76.499485
 dtype: float64
- r2 value :8.23139150268e-05
- p value :0.746685640876
+ r2 value :0.0013819518859
+ p value :0.185520644957
 Variable : MEDIAN_AGE_WHITE_NON_HISP_MALE
-MEDIAN_AGE_WHITE_NON_HISP_MALE Mean 38.5004724409
- STD 4.03750914448
- min 23.7
+MEDIAN_AGE_WHITE_NON_HISP_MALE Mean 38.3651419558
+ STD 3.95407581062
+ min 21.6
  max 64.9
  diffmeanandmin :MEDIAN_AGE_WHITE_NON_HISP_MALE    16.853593
 dtype: float64
  diffmeanandmax :MEDIAN_AGE_WHITE_NON_HISP_MALE   -26.446407
 dtype: float64
- r2 value :0.0003224331052
- p value :0.522604690737
+ r2 value :0.000408361336697
+ p value :0.471822842257
 Variable : Surface_Pro
 Surface_Pro Mean 
 Variable : RATE_DO_TOT_PTCARE
-RATE_DO_TOT_PTCARE Mean 10.7793923452
- STD nan
+RATE_DO_TOT_PTCARE Mean 10.2791926079
+ STD 14.6724552236
  min 0.0
- max 452.894855
+ max 261.437908
  diffmeanandmin :RATE_DO_TOT_PTCARE    10.914332
 dtype: float64
  diffmeanandmax :RATE_DO_TOT_PTCARE   -441.980523
 dtype: float64
- r2 value :0.00111069502743
- p value :0.235290850096
+ r2 value :0.000462529505059
+ p value :0.443817779441
 Variable : PERCNT_AFRICAN_AM_POP
-PERCNT_AFRICAN_AM_POP Mean 8.8475965327
- STD nan
+PERCNT_AFRICAN_AM_POP Mean 8.75322834646
+ STD 14.3398904487
  min 0.0
- max 86.5
+ max 79.0
  diffmeanandmin :PERCNT_AFRICAN_AM_POP    8.845903
 dtype: float64
  diffmeanandmax :PERCNT_AFRICAN_AM_POP   -77.654097
 dtype: float64
- r2 value :0.00175006011981
- p value :0.136220286412
+ r2 value :0.000877604445057
+ p value :0.291462794584
 Variable : RATE_INTMED_SPEC_TOT_PC
-RATE_INTMED_SPEC_TOT_PC Mean 4.14182123204
- STD nan
+RATE_INTMED_SPEC_TOT_PC Mean 4.18110482925
+ STD 10.4444246625
  min 0.0
- max 72.965018
+ max 188.553682
  diffmeanandmin :RATE_INTMED_SPEC_TOT_PC    4.078059
 dtype: float64
  diffmeanandmax :RATE_INTMED_SPEC_TOT_PC   -186.026165
 dtype: float64
- r2 value :1.69198727068e-06
- p value :0.963063343301
+ r2 value :2.57684285766e-05
+ p value :0.856582607342
 Variable : RATE_MDS_GP_TOT_PC
-RATE_MDS_GP_TOT_PC Mean 30.9370123825
- STD nan
+RATE_MDS_GP_TOT_PC Mean 30.5957794517
+ STD 21.3165054613
  min 0.0
- max 369.913687
+ max 180.962722
  diffmeanandmin :RATE_MDS_GP_TOT_PC    30.612143
 dtype: float64
  diffmeanandmax :RATE_MDS_GP_TOT_PC   -339.301544
 dtype: float64
- r2 value :0.000128490053261
- p value :0.686526330443
+ r2 value :0.000126772843144
+ p value :0.6885176557
 Variable : PERCNT_MEDCD_ELIG_MALES
-PERCNT_MEDCD_ELIG_MALES Mean 16.5446882025
- STD nan
+PERCNT_MEDCD_ELIG_MALES Mean 16.7502513283
+ STD 7.35679356305
  min 0.0
- max 48.298705
+ max 52.669492
  diffmeanandmin :PERCNT_MEDCD_ELIG_MALES    16.719847
 dtype: float64
  diffmeanandmax :PERCNT_MEDCD_ELIG_MALES   -42.039416
 dtype: float64
- r2 value :1.99516007899e-05
- p value :0.873649282248
+ r2 value :5.68700671966e-05
+ p value :0.788325058487
 Variable : p1tot_rate
-p1tot_rate Mean 820.481382583
- STD nan
+p1tot_rate Mean 830.525564903
+ STD 527.825954451
  min 0.0
  max 4629.8067725
  diffmeanandmin :p1tot_rate    823.121299
 dtype: float64
  diffmeanandmax :p1tot_rate   -3806.685474
 dtype: float64
- r2 value :0.000122246186884
- p value :0.693843021486
+ r2 value :4.91204520695e-05
+ p value :0.802956283634
 Variable : MED_HH_INC
-MED_HH_INC Mean 43882.6322021
- STD nan
- min 22365.0
- max 107075.0
+MED_HH_INC Mean 43947.4716088
+ STD 10656.0431976
+ min 19829.0
+ max 87973.0
  diffmeanandmin :MED_HH_INC    24841.705731
 dtype: float64
  diffmeanandmax :MED_HH_INC   -67558.294269
 dtype: float64
- r2 value :2.3774157621e-05
- p value :0.862186294185
+ r2 value :4.67956628999e-05
+ p value :0.80758207124
 Variable : PERCNT_HISPANIC_POP
-PERCNT_HISPANIC_POP Mean 6.14582677165
- STD 11.5133251414
+PERCNT_HISPANIC_POP Mean 5.84132492114
+ STD 11.05944914
  min 0.1
- max 88.3
+ max 94.3
  diffmeanandmin :PERCNT_HISPANIC_POP    6.101751
 dtype: float64
  diffmeanandmax :PERCNT_HISPANIC_POP   -91.298249
 dtype: float64
- r2 value :0.000182830330359
- p value :0.630222871055
+ r2 value :0.0046760171808
+ p value :0.0147946921036
 Variable : RATE_PLASTIC_TOT_PC
-RATE_PLASTIC_TOT_PC Mean 0.593299929811
- STD nan
+RATE_PLASTIC_TOT_PC Mean 0.6456039
+ STD 1.78265056083
  min 0.0
- max 13.300231
+ max 34.621757
  diffmeanandmin :RATE_PLASTIC_TOT_PC    0.635964
 dtype: float64
  diffmeanandmax :RATE_PLASTIC_TOT_PC   -53.830267
 dtype: float64
- r2 value :0.000523529465245
- p value :0.415240071822
+ r2 value :0.00100097739805
+ p value :0.259884073692
 Variable : PCT_HISP08
-PCT_HISP08 Mean 8.03695823483
- STD nan
+PCT_HISP08 Mean 7.77612293144
+ STD 12.7741349476
  min 0.1
- max 94.6
+ max 90.9
  diffmeanandmin :PCT_HISP08    7.598938
 dtype: float64
  diffmeanandmax :PCT_HISP08   -89.601062
 dtype: float64
- r2 value :1.41377169567e-05
- p value :0.893509781667
+ r2 value :6.98130603823e-05
+ p value :0.766104181092
 Variable : p1prpty_rate
 p1prpty_rate Mean 
 Variable : RATE_MDS_TOT_GP_OFFBASED
-RATE_MDS_TOT_GP_OFFBASED Mean 28.2685415548
- STD nan
+RATE_MDS_TOT_GP_OFFBASED Mean 27.3027721481
+ STD 19.7389159975
  min 0.0
- max 268.817204
+ max 180.962722
  diffmeanandmin :RATE_MDS_TOT_GP_OFFBASED    27.603426
 dtype: float64
  diffmeanandmax :RATE_MDS_TOT_GP_OFFBASED   -342.310261
 dtype: float64
- r2 value :7.32915494496e-05
- p value :0.760521716608
+ r2 value :0.00133216198911
+ p value :0.193648271743
 Variable : Iwhite2000
-Iwhite2000 Mean 0.846108784252
- STD 0.158590771323
+Iwhite2000 Mean 0.83600622695
+ STD 0.166510121041
  min 0.019784
- max 0.997609
+ max 1.0
  diffmeanandmin :Iwhite2000    0.81909
 dtype: float64
  diffmeanandmax :Iwhite2000   -0.161126
 dtype: float64
- r2 value :1.50606908814e-05
- p value :0.890110005091
+ r2 value :0.000163877662046
+ p value :0.648550895653
 Variable : RATE_LICENS_SHRTRM_NH_HOSP_BEDS
-RATE_LICENS_SHRTRM_NH_HOSP_BEDS Mean 7.83471991325
- STD nan
+RATE_LICENS_SHRTRM_NH_HOSP_BEDS Mean 6.95802507425
+ STD 22.6529641969
  min 0.0
- max 237.21275
+ max 255.210549
  diffmeanandmin :RATE_LICENS_SHRTRM_NH_HOSP_BEDS    8.056928
 dtype: float64
  diffmeanandmax :RATE_LICENS_SHRTRM_NH_HOSP_BEDS   -575.033451
 dtype: float64
- r2 value :0.000358955628479
- p value :0.499942736859
+ r2 value :0.000701123810236
+ p value :0.345752185929
 Variable : rentwt
-rentwt Mean 0.209611545311
- STD nan
- min 0.061466
- max 0.624574
+rentwt Mean 0.212318102057
+ STD 0.0590690651671
+ min 0.065274
+ max 0.567552
  diffmeanandmin :rentwt    0.185199
 dtype: float64
  diffmeanandmax :rentwt   -0.548115
 dtype: float64
- r2 value :0.00361570519626
- p value :0.0321362730198
+ r2 value :9.23974681331e-05
+ p value :0.732180186699
 Variable : PERCNT_MEDCD_ELIG_TOT
-PERCNT_MEDCD_ELIG_TOT Mean 19.8874687029
- STD nan
+PERCNT_MEDCD_ELIG_TOT Mean 19.8076494354
+ STD 8.59964739983
  min 0.630739
- max 60.572805
+ max 53.429687
  diffmeanandmin :PERCNT_MEDCD_ELIG_TOT    19.908471
 dtype: float64
  diffmeanandmax :PERCNT_MEDCD_ELIG_TOT   -40.664334
 dtype: float64
- r2 value :0.00171090341065
- p value :0.140687111179
+ r2 value :0.0024314215337
+ p value :0.0789891001618
 Variable : PERCNT_WHITE_POPULATION
-PERCNT_WHITE_POPULATION Mean 85.0011032309
- STD nan
- min 4.5
- max 99.5
+PERCNT_WHITE_POPULATION Mean 85.1506698188
+ STD 15.6976187362
+ min 13.1
+ max 99.4
  diffmeanandmin :PERCNT_WHITE_POPULATION    80.272915
 dtype: float64
  diffmeanandmax :PERCNT_WHITE_POPULATION   -14.927085
 dtype: float64
- r2 value :4.69621999116e-05
- p value :0.807246705691
+ r2 value :0.00324254181328
+ p value :0.0424643336571
 Variable : Per_Rep_08
-Per_Rep_08 Mean 57.5914320323
- STD nan
+Per_Rep_08 Mean 56.0407389645
+ STD 13.4570785498
  min 0.0
- max 90.45045
+ max 89.236393
  diffmeanandmin :Per_Rep_08    56.905571
 dtype: float64
  diffmeanandmax :Per_Rep_08   -36.304306
 dtype: float64
- r2 value :0.000171033733769
- p value :0.641486116075
+ r2 value :1.5081465455e-05
+ p value :0.890034721409
 Variable : At_Least_Bachelor's_Degree(%)
-At_Least_Bachelor's_Degree(%) Mean 19.0832675612
- STD nan
+At_Least_Bachelor's_Degree(%) Mean 18.1808208366
+ STD 8.14966765154
  min 3.7
  max 64.0
  diffmeanandmin :At_Least_Bachelor's_Degree(%)    15.302222
 dtype: float64
  diffmeanandmax :At_Least_Bachelor's_Degree(%)   -51.997778
 dtype: float64
- r2 value :0.000180389297159
- p value :0.632516168402
+ r2 value :0.000420925406167
+ p value :0.465082492805
 Variable : Onroad_Respiratory_Risk
-Onroad_Respiratory_Risk Mean 19.0832675612
- STD nan
+Onroad_Respiratory_Risk Mean 18.1808208366
+ STD 8.14966765154
  min 3.7
  max 64.0
  diffmeanandmin :Series([], dtype: float64)
  diffmeanandmax :Series([], dtype: float64)
- r2 value :0.000180389297159
- p value :0.632516168402
+ r2 value :0.000420925406167
+ p value :0.465082492805
 Variable : White_not_Latino_Population_(%)
-White_not_Latino_Population_(%) Mean 79.3283687943
- STD nan
+White_not_Latino_Population_(%) Mean 79.834751773
+ STD 18.7741593751
  min 3.6
- max 99.8
+ max 100.0
  diffmeanandmin :White_not_Latino_Population_(%)    78.599099
 dtype: float64
  diffmeanandmax :White_not_Latino_Population_(%)   -20.400901
 dtype: float64
- r2 value :0.000358749350753
- p value :0.50006596479
+ r2 value :1.82909635348e-05
+ p value :0.878979534922
 Variable : Per_Rep_04
-Per_Rep_04 Mean 60.5010307754
- STD nan
- min 12.5
- max 88.91
+Per_Rep_04 Mean 60.0753528737
+ STD 12.6764040177
+ min 9.353528
+ max 89.6
  diffmeanandmin :Per_Rep_04    50.93342
 dtype: float64
  diffmeanandmax :Per_Rep_04   -31.713052
 dtype: float64
- r2 value :0.00115235009244
- p value :0.226700167769
+ r2 value :0.00140092828297
+ p value :0.182527768931
 Variable : RATE_MDS_TOT_PTCARE_NONFED
-RATE_MDS_TOT_PTCARE_NONFED Mean 109.375843196
- STD nan
+RATE_MDS_TOT_PTCARE_NONFED Mean 113.617983365
+ STD 116.226421193
  min 0.0
- max 2097.089299
+ max 1836.687896
  diffmeanandmin :RATE_MDS_TOT_PTCARE_NONFED    114.315876
 dtype: float64
  diffmeanandmax :RATE_MDS_TOT_PTCARE_NONFED   -2031.868685
 dtype: float64
- r2 value :0.000646219157103
- p value :0.36537097243
+ r2 value :1.96766190425e-07
+ p value :0.987399978956
 Variable : MEDIAN_AGE_WHITE_NON_HISP_FMLE
-MEDIAN_AGE_WHITE_NON_HISP_FMLE Mean 40.7869085174
- STD nan
+MEDIAN_AGE_WHITE_NON_HISP_FMLE Mean 40.610488959
+ STD 4.20773008942
  min 20.0
- max 57.7
+ max 64.4
  diffmeanandmin :MEDIAN_AGE_WHITE_NON_HISP_FMLE    20.821133
 dtype: float64
  diffmeanandmax :MEDIAN_AGE_WHITE_NON_HISP_FMLE   -23.578867
 dtype: float64
- r2 value :0.00104038696963
- p value :0.250703875554
+ r2 value :1.56741701036e-06
+ p value :0.964448107252
 Variable : Marital_Status_Sing_WF
-Marital_Status_Sing_WF Mean 0.209395219972
- STD 0.0641829416881
- min 0.0422343324
- max 0.6246038606
+Marital_Status_Sing_WF Mean 0.212046102969
+ STD 0.0657524593213
+ min 0.0625
+ max 0.549188
  diffmeanandmin :Marital_Status_Sing_WF    0.211881
 dtype: float64
  diffmeanandmax :Marital_Status_Sing_WF   -1.0554
 dtype: float64
- r2 value :0.000175251246381
- p value :0.637406253461
+ r2 value :0.000137588205928
+ p value :0.676226197972
 Variable : PERCNT_MEDCR_ENROL_AGED_DSBL_HI
-PERCNT_MEDCR_ENROL_AGED_DSBL_HI Mean 16.8036827908
- STD nan
- min 3.91963
- max 35.313641
+PERCNT_MEDCR_ENROL_AGED_DSBL_HI Mean 16.8937101389
+ STD 4.35128644337
+ min 2.963417
+ max 33.065345
  diffmeanandmin :PERCNT_MEDCR_ENROL_AGED_DSBL_HI    13.998921
 dtype: float64
  diffmeanandmax :PERCNT_MEDCR_ENROL_AGED_DSBL_HI   -18.351303
 dtype: float64
- r2 value :0.00191026986561
- p value :0.119521276881
+ r2 value :0.000309674997581
+ p value :0.530949553464
 Variable : RATE_ACTV_DO_NONFED
-RATE_ACTV_DO_NONFED Mean 12.6427946528
- STD 16.2639791221
+RATE_ACTV_DO_NONFED Mean 12.8185711812
+ STD 23.000983886
  min 0.0
- max 214.120536
+ max 565.661047
  diffmeanandmin :RATE_ACTV_DO_NONFED    12.770626
 dtype: float64
  diffmeanandmax :RATE_ACTV_DO_NONFED   -552.890421
 dtype: float64
- r2 value :0.00241866365012
- p value :0.0797803818147
+ r2 value :1.9389782816e-05
+ p value :0.875426225036
 Variable : Per_Dem_04
-Per_Dem_04 Mean 37.7032727872
- STD nan
+Per_Dem_04 Mean 39.2538636115
+ STD 12.9873512375
  min 8.3
- max 84.6
+ max 89.38912
  diffmeanandmin :Per_Dem_04    31.642808
 dtype: float64
  diffmeanandmax :Per_Dem_04   -50.646312
 dtype: float64
- r2 value :5.04759860482e-05
- p value :0.800312610411
+ r2 value :0.00121634904707
+ p value :0.214222155418
 Variable : Per_Dem_08
-Per_Dem_08 Mean 40.6755086165
- STD 13.3946971767
- min 7.83871
- max 92.863227
+Per_Dem_08 Mean 41.7058353404
+ STD 13.434944936
+ min 11.141304
+ max 83.678518
  diffmeanandmin :Per_Dem_08    41.493153
 dtype: float64
  diffmeanandmax :Per_Dem_08   -51.370074
 dtype: float64
- r2 value :7.11901948925e-06
- p value :0.924321557699
+ r2 value :0.000663081093415
+ p value :0.359186891417
 Variable : DAYS_HI_90
-DAYS_HI_90 Mean 54.6957701516
- STD nan
+DAYS_HI_90 Mean 54.2386565978
+ STD 41.7063341336
  min 0.0
- max 180.39
+ max 191.96
  diffmeanandmin :DAYS_HI_90    53.109302
 dtype: float64
  diffmeanandmax :DAYS_HI_90   -142.240698
 dtype: float64
- r2 value :0.000321771468194
- p value :0.523031706725
+ r2 value :0.00165346186934
+ p value :0.147540420463
 Variable : Diesel_r_05
-Diesel_r_05 Mean 0.0250964069102
- STD nan
- min 8.84796e-05
- max 0.4207241733
+Diesel_r_05 Mean 0.025451133295
+ STD 0.0457097529509
+ min 6.31329e-05
+ max 0.6821081897
  diffmeanandmin :Diesel_r_05    0.025299
 dtype: float64
  diffmeanandmax :Diesel_r_05   -0.720839
 dtype: float64
- r2 value :4.6600730692e-05
- p value :0.807975421854
+ r2 value :0.000265744605125
+ p value :0.561637982187
 Variable : relig09
-relig09 Mean 55.3039370079
- STD 139.860500467
+relig09 Mean 57.1265822785
+ STD 105.007473162
  min 0.0
- max 3258.0
+ max 1034.0
  diffmeanandmin :relig09    57.630955
 dtype: float64
  diffmeanandmax :relig09   -3200.369045
 dtype: float64
- r2 value :5.65474032334e-05
- p value :0.788912169005
+ r2 value :0.000362824805244
+ p value :0.49764083096
 Variable : PCT_NHWHITE08
-PCT_NHWHITE08 Mean 79.6096214511
- STD nan
- min 3.5
- max 99.2
+PCT_NHWHITE08 Mean 78.9796850394
+ STD 18.9272655864
+ min 6.1
+ max 99.4
  diffmeanandmin :PCT_NHWHITE08    77.548294
 dtype: float64
  diffmeanandmax :PCT_NHWHITE08   -19.851706
 dtype: float64
- r2 value :1.53339879764e-05
- p value :0.889123812266
+ r2 value :0.000284478042095
+ p value :0.548158084543
 Variable : Pro_TTL_STON
-Pro_TTL_STON Mean 3197.26666667
- STD nan
+Pro_TTL_STON Mean 2443.01666667
+ STD 3303.42009889
  min 1.0
- max 34316.0
+ max 15114.0
  diffmeanandmin :Pro_TTL_STON    4823.374603
 dtype: float64
  diffmeanandmax :Pro_TTL_STON   -349235.625397
 dtype: float64
- r2 value :0.0004927368631
- p value :0.429306836537
+ r2 value :0.000325795001521
+ p value :0.520444434476
 Variable : PERCNT_MEDCR_ENROL_DISABL_TOT
-PERCNT_MEDCR_ENROL_DISABL_TOT Mean 2.81628311732
- STD 1.29794592568
+PERCNT_MEDCR_ENROL_DISABL_TOT Mean 2.78391486177
+ STD 1.2467699904
  min 0.0
- max 14.829327
+ max 10.524884
  diffmeanandmin :PERCNT_MEDCR_ENROL_DISABL_TOT    2.798568
 dtype: float64
  diffmeanandmax :PERCNT_MEDCR_ENROL_DISABL_TOT   -12.030759
 dtype: float64
- r2 value :0.000142101689949
- p value :0.671264374605
+ r2 value :0.00153862211115
+ p value :0.162403171319
 Variable : Graduate_or_Professiol_Degree(%)
-Graduate_or_Professiol_Degree(%) Mean 6.536492891
- STD nan
+Graduate_or_Professiol_Degree(%) Mean 6.44455835962
+ STD 3.99515997128
  min 0.0
- max 40.6
+ max 36.7
  diffmeanandmin :Graduate_or_Professiol_Degree(%)    6.448551
 dtype: float64
  diffmeanandmax :Graduate_or_Professiol_Degree(%)   -34.151449
 dtype: float64
- r2 value :0.00433572349139
- p value :0.0189353226969
+ r2 value :0.00168168475062
+ p value :0.144127347905
 Variable : PERCNT_MEDCR_ENROL_AGED_DSBL_TOT
-PERCNT_MEDCR_ENROL_AGED_DSBL_TOT Mean 16.8761371079
- STD 4.32935960912
- min 2.977042
- max 35.446399
+PERCNT_MEDCR_ENROL_AGED_DSBL_TOT Mean 16.9367638827
+ STD 4.18422797849
+ min 3.951189
+ max 30.756028
  diffmeanandmin :PERCNT_MEDCR_ENROL_AGED_DSBL_TOT    14.047005
 dtype: float64
  diffmeanandmax :PERCNT_MEDCR_ENROL_AGED_DSBL_TOT   -18.422352
 dtype: float64
- r2 value :0.000279943721619
- p value :0.551364507392
+ r2 value :0.000112161112106
+ p value :0.706131035683
 Variable : POV_RATE
-POV_RATE Mean 15.2947949527
- STD nan
+POV_RATE Mean 15.4573228346
+ STD 6.29446494118
  min 3.1
- max 38.1
+ max 48.1
  diffmeanandmin :POV_RATE    12.172473
 dtype: float64
  diffmeanandmax :POV_RATE   -39.127527
 dtype: float64
- r2 value :4.00272166654e-08
- p value :0.994316863458
+ r2 value :0.000338961294721
+ p value :0.512133092489
 Variable : Filtered_Lead_03-05
-Filtered_Lead_03-05 Mean 0.525394831727
- STD nan
- min 0.00025
- max 32.7240092166
+Filtered_Lead_03-05 Mean 0.613014643175
+ STD 4.67802148954
+ min 0.0
+ max 75.5266666667
  diffmeanandmin :Filtered_Lead_03-05    0.551263
 dtype: float64
  diffmeanandmax :Filtered_Lead_03-05   -74.975404
 dtype: float64
- r2 value :0.000101607741407
- p value :0.719685371032
+ r2 value :0.00134084322318
+ p value :0.192201763719
 Variable : PERCNT_MEDCR_ENROL_AGED_DSBL_SMI
-PERCNT_MEDCR_ENROL_AGED_DSBL_SMI Mean 16.5589296961
- STD nan
- min 2.772668
+PERCNT_MEDCR_ENROL_AGED_DSBL_SMI Mean 16.5773015556
+ STD 4.294950452
+ min 4.325304
  max 34.649851
  diffmeanandmin :PERCNT_MEDCR_ENROL_AGED_DSBL_SMI    13.550435
 dtype: float64
  diffmeanandmax :PERCNT_MEDCR_ENROL_AGED_DSBL_SMI   -18.326748
 dtype: float64
- r2 value :0.000471405983206
- p value :0.439476823468
+ r2 value :0.000555851505182
+ p value :0.401196311676
 Variable : Av_Per_Rep
-Av_Per_Rep Mean 58.829318292
- STD nan
- min 13.926305
+Av_Per_Rep Mean 58.2422975599
+ STD 13.2242871258
+ min 14.447572
  max 91.025225
  diffmeanandmin :Av_Per_Rep    50.657205
 dtype: float64
  diffmeanandmax :Av_Per_Rep   -33.379212
 dtype: float64
- r2 value :0.000827159341848
- p value :0.305770149013
+ r2 value :0.00343404431107
+ p value :0.0367892223746
 Variable : Poverty_Rate_(%_below_federal_poverty_threshold)
-Poverty_Rate_(%_below_federal_poverty_threshold) Mean 15.6288188976
- STD 6.59646321535
+Poverty_Rate_(%_below_federal_poverty_threshold) Mean 15.2383766745
+ STD 6.49766164255
  min 0.0
  max 52.4
  diffmeanandmin :Poverty_Rate_(%_below_federal_poverty_threshold)    15.437826
 dtype: float64
  diffmeanandmax :Poverty_Rate_(%_below_federal_poverty_threshold)   -36.962174
 dtype: float64
- r2 value :0.0010336683187
- p value :0.252240390651
+ r2 value :0.00283395606159
+ p value :0.0578790847755
 Variable : Total_Population
-Total_Population Mean 105097.084451
- STD nan
- min 81.0
- max 9785295.0
+Total_Population Mean 89009.5406472
+ STD 215719.663252
+ min 233.0
+ max 2457044.0
  diffmeanandmin :Total_Population    96251.631071
 dtype: float64
  diffmeanandmax :Total_Population   -9688962.368929
 dtype: float64
- r2 value :0.000802061539714
- p value :0.313226675528
+ r2 value :0.000997907808589
+ p value :0.260616380667
 Variable : DM_Heat
-DM_Heat Mean 89.855430622
- STD nan
- min 79.49
+DM_Heat Mean 89.7043210863
+ STD 3.25095824199
+ min 79.26
  max 95.72
  diffmeanandmin :DM_Heat    10.508435
 dtype: float64
  diffmeanandmax :DM_Heat   -5.951565
 dtype: float64
- r2 value :0.000737555622826
- p value :0.333516178639
+ r2 value :2.20197623584e-06
+ p value :0.957867363838
 Variable : PERCNT_MEDCR_ENROL_AGED_TOT
-PERCNT_MEDCR_ENROL_AGED_TOT Mean 97.0114261488
- STD 7.60850547369
- min 0.0
- max 131.913159
+PERCNT_MEDCR_ENROL_AGED_TOT Mean 96.8146594953
+ STD 7.22974499529
+ min 69.458403
+ max 135.974026
  diffmeanandmin :PERCNT_MEDCR_ENROL_AGED_TOT    96.671429
 dtype: float64
  diffmeanandmax :PERCNT_MEDCR_ENROL_AGED_TOT   -83.696835
 dtype: float64
- r2 value :2.15440518623e-05
- p value :0.868747641643
+ r2 value :0.00395945217399
+ p value :0.0249324985375
 Variable : VINYL_ACETATE
-VINYL_ACETATE Mean 97.0114261488
- STD 7.60850547369
- min 0.0
- max 131.913159
+VINYL_ACETATE Mean 96.8146594953
+ STD 7.22974499529
+ min 69.458403
+ max 135.974026
  diffmeanandmin :Series([], dtype: float64)
  diffmeanandmax :Series([], dtype: float64)
- r2 value :2.15440518623e-05
- p value :0.868747641643
+ r2 value :0.00395945217399
+ p value :0.0249324985375
 Variable : Epichlo_c_05
-Epichlo_c_05 Mean 6.87155240347e-11
- STD nan
+Epichlo_c_05 Mean 8.97314375987e-11
+ STD 9.16397278536e-10
  min 0.0
- max 3.86e-08
+ max 2.87e-08
  diffmeanandmin :Epichlo_c_05    5.571291e-11
 dtype: float64
  diffmeanandmax :Epichlo_c_05   -3.854429e-08
 dtype: float64
- r2 value :0.0017968430124
- p value :0.131090120504
+ r2 value :1.83398631684e-07
+ p value :0.987835470883
 Variable : 2013_Poverty_(%_of_population_below_poverty_line)
-2013_Poverty_(%_of_population_below_poverty_line) Mean 16.152058319
- STD nan
- min 3.8
- max 53.5
+2013_Poverty_(%_of_population_below_poverty_line) Mean 16.1767263427
+ STD 6.30709519603
+ min 3.4
+ max 48.4
  diffmeanandmin :2013_Poverty_(%_of_population_below_poverty_line)    12.804509
 dtype: float64
  diffmeanandmax :2013_Poverty_(%_of_population_below_poverty_line)   -37.295491
 dtype: float64
- r2 value :8.23363925565e-05
- p value :0.746652241868
+ r2 value :0.000191516341521
+ p value :0.622212428361
 Variable : RATE_PULM_TOT_PC
-RATE_PULM_TOT_PC Mean 1.03391060126
- STD nan
+RATE_PULM_TOT_PC Mean 0.978642147476
+ STD 2.03738919735
  min 0.0
- max 30.327911
+ max 14.287755
  diffmeanandmin :RATE_PULM_TOT_PC    1.078719
 dtype: float64
  diffmeanandmax :RATE_PULM_TOT_PC   -29.249192
 dtype: float64
- r2 value :5.21552304434e-05
- p value :0.797089457094
+ r2 value :0.000328105848968
+ p value :0.518968662782
 Variable : Mines_TTL
 Mines_TTL Mean 
 Variable : RATE_SHRTTERM_HOSP_ADM
-RATE_SHRTTERM_HOSP_ADM Mean 89.8144870291
- STD 99.5687927526
+RATE_SHRTTERM_HOSP_ADM Mean 90.8248873096
+ STD 203.605064356
  min 0.0
- max 1207.746479
+ max 4808.737594
  diffmeanandmin :RATE_SHRTTERM_HOSP_ADM    87.741505
 dtype: float64
  diffmeanandmax :RATE_SHRTTERM_HOSP_ADM   -4720.996089
 dtype: float64
- r2 value :0.00219309612046
- p value :0.0952813186075
+ r2 value :0.000475548708249
+ p value :0.437473143179
 Variable : Marital_Status_Sing_WM
-Marital_Status_Sing_WM Mean 0.255654594637
- STD nan
- min 0.0
- max 0.731329
+Marital_Status_Sing_WM Mean 0.25400627918
+ STD 0.0620876886179
+ min 0.070423
+ max 0.90534
  diffmeanandmin :Marital_Status_Sing_WM    0.255266
 dtype: float64
  diffmeanandmax :Marital_Status_Sing_WM   -0.650074
 dtype: float64
- r2 value :0.0024184583736
- p value :0.079793183193
+ r2 value :0.000533460722155
+ p value :0.410849214756
 Variable : PERCNT_MALES_LT65_NO_HLTH_INS
-PERCNT_MALES_LT65_NO_HLTH_INS Mean 19.0048818898
- STD 6.38130696091
- min 0.0
- max 46.4
+PERCNT_MALES_LT65_NO_HLTH_INS Mean 19.2929810726
+ STD 6.40768881667
+ min 7.9
+ max 46.8
  diffmeanandmin :PERCNT_MALES_LT65_NO_HLTH_INS    19.171708
 dtype: float64
  diffmeanandmax :PERCNT_MALES_LT65_NO_HLTH_INS   -27.628292
 dtype: float64
- r2 value :0.00399070525425
- p value :0.0243667094833
+ r2 value :0.000277781095276
+ p value :0.552906205357
 Variable : tot_house_2000
 tot_house_2000 Mean 
 Variable : RATE_PATH_TOT_PC
-RATE_PATH_TOT_PC Mean 2.32025167114
- STD nan
+RATE_PATH_TOT_PC Mean 2.31828002992
+ STD 5.47863749115
  min 0.0
  max 86.554393
  diffmeanandmin :RATE_PATH_TOT_PC    2.075012
 dtype: float64
  diffmeanandmax :RATE_PATH_TOT_PC   -84.479381
 dtype: float64
- r2 value :0.000385001161533
- p value :0.484783692183
+ r2 value :0.002831282524
+ p value :0.0579975417155
 Variable : RATE_SURG_SPEC_TOT_PC
-RATE_SURG_SPEC_TOT_PC Mean 24.8859545489
- STD nan
+RATE_SURG_SPEC_TOT_PC Mean 25.0476036005
+ STD 33.9947824524
  min 0.0
  max 506.961446
  diffmeanandmin :RATE_SURG_SPEC_TOT_PC    23.736116
 dtype: float64
  diffmeanandmax :RATE_SURG_SPEC_TOT_PC   -483.22533
 dtype: float64
- r2 value :0.000345161156085
- p value :0.508298947314
+ r2 value :0.000105659648468
+ p value :0.714390876743
 Variable : RATE_MDS_PC_OFFBASED
-RATE_MDS_PC_OFFBASED Mean 97.4479643016
- STD 90.1881273578
+RATE_MDS_PC_OFFBASED Mean 98.2225803838
+ STD 96.5054501123
  min 0.0
- max 1121.393013
+ max 1214.507542
  diffmeanandmin :RATE_MDS_PC_OFFBASED    98.79178
 dtype: float64
  diffmeanandmax :RATE_MDS_PC_OFFBASED   -1115.715762
 dtype: float64
- r2 value :4.10791016543e-06
- p value :0.942476112509
+ r2 value :0.000763981642333
+ p value :0.325000384055
 Variable : Filtered_Selenium_03-05
-Filtered_Selenium_03-05 Mean 4.25435230565
- STD nan
+Filtered_Selenium_03-05 Mean 4.13841008124
+ STD 25.2616522413
  min 0.005
- max 436.395
+ max 303.0
  diffmeanandmin :Filtered_Selenium_03-05    3.214118
 dtype: float64
  diffmeanandmax :Filtered_Selenium_03-05   -433.175882
 dtype: float64
- r2 value :0.00247935880245
- p value :0.0760904735702
+ r2 value :0.00224905413164
+ p value :0.0911533064639
 Variable : MEDIAN_AGE_FEMALE
-MEDIAN_AGE_FEMALE Mean 38.5571653543
- STD 4.13305189286
- min 20.0
- max 54.1
+MEDIAN_AGE_FEMALE Mean 38.5591016548
+ STD 3.97451964931
+ min 22.2
+ max 51.0
  diffmeanandmin :MEDIAN_AGE_FEMALE    18.627779
 dtype: float64
  diffmeanandmax :MEDIAN_AGE_FEMALE   -16.872221
 dtype: float64
- r2 value :0.000760614573542
- p value :0.326069271754
+ r2 value :0.000549856773056
+ p value :0.40374798391
 Variable : fitns09
-fitns09 Mean 9.09448818898
- STD 30.8796834749
- min 0.0
- max 738.0
- diffmeanandmin :fitns09   NaN
-dtype: float64
- diffmeanandmax :fitns09    NaN
-dtype: object
- r2 value :0.000757260679073
- p value :0.327138605785
+fitns09 Mean 
 Variable : Filtered_Cadmium_03-05
-Filtered_Cadmium_03-05 Mean 0.536113556661
- STD nan
+Filtered_Cadmium_03-05 Mean 0.279019510034
+ STD 0.90353602499
  min 0.0
- max 70.005
+ max 7.5630232558
  diffmeanandmin :Filtered_Cadmium_03-05    0.559013
 dtype: float64
  diffmeanandmax :Filtered_Cadmium_03-05   -73.535872
 dtype: float64
- r2 value :0.00020757189558
- p value :0.607981518811
+ r2 value :0.000153357092462
+ p value :0.659283565155
 Variable : RATE_INTMED_TOT_PC
-RATE_INTMED_TOT_PC Mean 14.9722427839
- STD nan
+RATE_INTMED_TOT_PC Mean 15.2840795765
+ STD 18.8541973588
  min 0.0
- max 281.920024
+ max 189.32564
  diffmeanandmin :RATE_INTMED_TOT_PC    15.105083
 dtype: float64
  diffmeanandmax :RATE_INTMED_TOT_PC   -300.99962
 dtype: float64
- r2 value :0.000173514396501
- p value :0.639079086441
+ r2 value :0.0016951238998
+ p value :0.142533407111
 Variable : RATE_ANEST_TOT_PC
-RATE_ANEST_TOT_PC Mean 4.89017294405
- STD nan
+RATE_ANEST_TOT_PC Mean 4.79421107565
+ STD 8.14514725837
  min 0.0
  max 119.832235
  diffmeanandmin :RATE_ANEST_TOT_PC    4.809
 dtype: float64
  diffmeanandmax :RATE_ANEST_TOT_PC   -143.56996
 dtype: float64
- r2 value :0.00121842823439
- p value :0.213830694035
+ r2 value :0.000222352244803
+ p value :0.595482842204
 Variable : PERCNT_MEDCR_ENROL_DISABL_SMI
-PERCNT_MEDCR_ENROL_DISABL_SMI Mean 2.60459456703
- STD nan
+PERCNT_MEDCR_ENROL_DISABL_SMI Mean 2.58446192829
+ STD 1.31408278908
  min 0.0
- max 9.395809
+ max 14.158756
  diffmeanandmin :PERCNT_MEDCR_ENROL_DISABL_SMI    2.545009
 dtype: float64
  diffmeanandmax :PERCNT_MEDCR_ENROL_DISABL_SMI   -11.613747
 dtype: float64
- r2 value :0.000428986802687
- p value :0.460838441882
+ r2 value :0.00387152411903
+ p value :0.0265985602817
 Variable : rentbk
-rentbk Mean 0.260565666931
- STD nan
+rentbk Mean 0.261688361111
+ STD 0.25307231338
  min 0.0
  max 1.0
  diffmeanandmin :rentbk    0.253572
 dtype: float64
  diffmeanandmax :rentbk   -0.746428
 dtype: float64
- r2 value :0.000826014869413
- p value :0.306105126356
+ r2 value :0.000616803060311
+ p value :0.376518216088
 Variable : MEDIAN_AGE_MALE
-MEDIAN_AGE_MALE Mean 35.9872340426
- STD nan
+MEDIAN_AGE_MALE Mean 35.9818110236
+ STD 4.00431950186
  min 19.8
- max 51.7
+ max 49.1
  diffmeanandmin :MEDIAN_AGE_MALE    16.334651
 dtype: float64
  diffmeanandmax :MEDIAN_AGE_MALE   -16.765349
 dtype: float64
- r2 value :0.00245962920302
- p value :0.0772693806042
+ r2 value :3.28990054945e-05
+ p value :0.838192353942
 Variable : Educ_Col_M_W
-Educ_Col_M_W Mean 0.215472714511
- STD nan
- min 0.037321
+Educ_Col_M_W Mean 0.212937165087
+ STD 0.107838474776
+ min 0.026118
  max 0.869662
  diffmeanandmin :Educ_Col_M_W    0.193751
 dtype: float64
  diffmeanandmax :Educ_Col_M_W   -0.658367
 dtype: float64
- r2 value :0.000102998954529
- p value :0.717854279474
+ r2 value :0.000238036903575
+ p value :0.582788828687
 Variable : BC_WM
-BC_WM Mean 0.452425659306
- STD nan
+BC_WM Mean 0.448941044164
+ STD 0.107307789064
  min 0.0
- max 0.790838
+ max 0.734465
  diffmeanandmin :BC_WM    0.452122
 dtype: float64
  diffmeanandmax :BC_WM   -0.338716
 dtype: float64
- r2 value :0.000365708800887
- p value :0.495936665369
+ r2 value :0.000646536495328
+ p value :0.36525323594
 Variable : EPICHLOROHYDRIN
-EPICHLOROHYDRIN Mean 4.41306748031e-05
- STD 0.000723822519115
+EPICHLOROHYDRIN Mean 3.92930787402e-05
+ STD 0.000328394008382
  min 0.0
- max 0.0239300887
+ max 0.0061521355
  diffmeanandmin :EPICHLOROHYDRIN    0.000046
 dtype: float64
  diffmeanandmax :EPICHLOROHYDRIN   -0.032102
 dtype: float64
- r2 value :0.000811732317116
- p value :0.310325806725
+ r2 value :0.000222565511567
+ p value :0.595306433597
 Variable : Preschool_Enrollment_(%_enrolled_ages_3_and_4)
 Preschool_Enrollment_(%_enrolled_ages_3_and_4) Mean 
 Variable : 3-_and_4-year-olds_Not_Enrolled_in_Preschool_(%)
-3-_and_4-year-olds_Not_Enrolled_in_Preschool_(%) Mean 56.4416468725
- STD nan
+3-_and_4-year-olds_Not_Enrolled_in_Preschool_(%) Mean 57.0340442338
+ STD 14.6600364527
  min 0.0
  max 100.0
  diffmeanandmin :3-_and_4-year-olds_Not_Enrolled_in_Preschool_(%)    57.02637
 dtype: float64
  diffmeanandmax :3-_and_4-year-olds_Not_Enrolled_in_Preschool_(%)   -42.97363
 dtype: float64
- r2 value :8.53301929577e-05
- p value :0.742248013768
+ r2 value :1.28939620231e-05
+ p value :0.89827516748
 Variable : "Percent_of_persons_with_less_than_high_school,_2007-2011"
-"Percent_of_persons_with_less_than_high_school,_2007-2011" Mean 56.4416468725
- STD nan
+"Percent_of_persons_with_less_than_high_school,_2007-2011" Mean 57.0340442338
+ STD 14.6600364527
  min 0.0
  max 100.0
  diffmeanandmin :Series([], dtype: float64)
  diffmeanandmax :Series([], dtype: float64)
- r2 value :8.53301929577e-05
- p value :0.742248013768
+ r2 value :1.28939620231e-05
+ p value :0.89827516748
 Variable : PERCNT_MEDCD_ELIG_FEMALES
-PERCNT_MEDCD_ELIG_FEMALES Mean 22.7155685406
- STD nan
+PERCNT_MEDCD_ELIG_FEMALES Mean 23.0417241754
+ STD 10.3870462255
  min 0.0
- max 58.462137
+ max 84.699454
  diffmeanandmin :PERCNT_MEDCD_ELIG_FEMALES    23.046852
 dtype: float64
  diffmeanandmax :PERCNT_MEDCD_ELIG_FEMALES   -61.652602
 dtype: float64
- r2 value :0.00077298320504
- p value :0.322165435577
+ r2 value :5.09301212428e-05
+ p value :0.799435378833
 Variable : RATE_HOSP_BEDS
-RATE_HOSP_BEDS Mean 34.6811272747
- STD nan
+RATE_HOSP_BEDS Mean 36.6906735973
+ STD 57.8744923302
  min 0.0
- max 406.281516
+ max 1093.590576
  diffmeanandmin :RATE_HOSP_BEDS    36.724966
 dtype: float64
  diffmeanandmax :RATE_HOSP_BEDS   -1056.86561
 dtype: float64
- r2 value :7.07703888276e-05
- p value :0.764552969152
+ r2 value :6.12449379044e-05
+ p value :0.780534757568
 Variable : RATE_NEURO_TOT_PC
-RATE_NEURO_TOT_PC Mean 1.38990127187
- STD nan
+RATE_NEURO_TOT_PC Mean 1.62263026399
+ STD 4.32264672131
  min 0.0
  max 85.805798
  diffmeanandmin :RATE_NEURO_TOT_PC    1.496069
 dtype: float64
  diffmeanandmax :RATE_NEURO_TOT_PC   -84.309729
 dtype: float64
- r2 value :5.71622661498e-05
- p value :0.787794919897
+ r2 value :0.000184381707835
+ p value :0.628775167118
 Variable : RATE_TOTAL_INPT_BEDS
-RATE_TOTAL_INPT_BEDS Mean 30.2337299315
- STD 38.6428824046
+RATE_TOTAL_INPT_BEDS Mean 32.3234537697
+ STD 45.232041843
  min 0.0
- max 442.40035
+ max 524.884417
  diffmeanandmin :RATE_TOTAL_INPT_BEDS    31.500637
 dtype: float64
  diffmeanandmax :RATE_TOTAL_INPT_BEDS   -828.345388
 dtype: float64
- r2 value :4.21826592019e-09
- p value :0.998155066771
+ r2 value :0.000220480011893
+ p value :0.597036175308
 Variable : RATE_DGRADIOL_TOT_PC
-RATE_DGRADIOL_TOT_PC Mean 3.56863715839
- STD nan
+RATE_DGRADIOL_TOT_PC Mean 3.28101081496
+ STD 6.54178477354
  min 0.0
  max 133.096717
  diffmeanandmin :RATE_DGRADIOL_TOT_PC    3.319691
 dtype: float64
  diffmeanandmax :RATE_DGRADIOL_TOT_PC   -129.777026
 dtype: float64
- r2 value :0.000457576750392
- p value :0.446268691209
+ r2 value :0.00041546442369
+ p value :0.467993072397
 Variable : Unfiltered_Mercury_03-05
-Unfiltered_Mercury_03-05 Mean 17.5362521019
- STD nan
- min 0.37
+Unfiltered_Mercury_03-05 Mean 36.7151852575
+ STD 106.837153633
+ min 1.1033333333
  max 467.215357143
  diffmeanandmin :Unfiltered_Mercury_03-05    52.105386
 dtype: float64
  diffmeanandmax :Unfiltered_Mercury_03-05   -1918.820448
 dtype: float64
- r2 value :0.000259274493628
- p value :0.566441485537
+ r2 value :0.000884112256705
+ p value :0.289679982694
 Variable : RATE_NEURSURG_TOT_PC
-RATE_NEURSURG_TOT_PC Mean 0.62097382794
- STD nan
+RATE_NEURSURG_TOT_PC Mean 0.550983202362
+ STD 1.70683946791
  min 0.0
  max 37.141584
  diffmeanandmin :RATE_NEURSURG_TOT_PC    0.568879
 dtype: float64
  diffmeanandmax :RATE_NEURSURG_TOT_PC   -41.471826
 dtype: float64
- r2 value :0.000222974495034
- p value :0.594968436204
+ r2 value :0.000568348185913
+ p value :0.395951696664
 Variable : Population_over_65_(%)
-Population_over_65_(%) Mean 15.5275590551
- STD 4.20944526926
- min 4.1
- max 33.0
+Population_over_65_(%) Mean 15.2830708661
+ STD 4.26648595226
+ min 4.2
+ max 36.5
  diffmeanandmin :Population_over_65_(%)    15.358572
 dtype: float64
  diffmeanandmax :Population_over_65_(%)   -21.141428
 dtype: float64
- r2 value :0.00037767614325
- p value :0.488968650916
+ r2 value :1.50146612057e-05
+ p value :0.890276997886

@@ -12,20 +12,20 @@ import unicodedata
 import numpy
 from pymongo import MongoClient
 str1="data.csv";
-client = MongoClient('mongodb://chsmongodb.ttu.edu', 27017)
+client = MongoClient('localhost', 27017)
 db = client.exposomedataset
 posts = db.cleaneddata
 availablevars=[];
 #target = open('Cleaneddatasetvars', 'w');
 df = pd.DataFrame()
 count=0;
-myvar=1
+
 
 path = "/Users/Vivekanand/Downloads/Exposome2.0dataset";
 for root, dirs, files in os.walk(path,topdown=True):
     for name in files:
         if name.endswith((".xlsx")):
-            myvar=myvar+1
+
             if not name.startswith('.'):
               print(count)
               count=count+1;
@@ -54,6 +54,7 @@ for root, dirs, files in os.walk(path,topdown=True):
                     posts.insert( data_json,check_keys=False)
                    except OverflowError:
                        print("error occured")
+                       print( filepath)
                        continue
 
 
