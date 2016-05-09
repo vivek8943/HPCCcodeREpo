@@ -50,7 +50,21 @@ for root, dirs, files in os.walk(path,topdown=True):
               #target.write(filepath)
             #  availablevars.append(availablevars)
 
-
+        if name.endswith((".xls")):
+            if not name.startswith('.'):
+              filepath = os.path.join(root, name)
+              print(filepath)
+              data=pd.ExcelFile(filepath)
+              data1=data.sheet_names
+              for sheet in data1:
+                  data2 = data.parse(sheet)
+                  availablevars=list(data2.columns.values)
+                  target.write(name)
+                  target.write("\n")
+                  for item in availablevars:
+                     print(type((item).encode('utf-8')))
+                     target.write((item).encode('utf-8'))
+                  target.write("\n")
 
 target.close()
 
